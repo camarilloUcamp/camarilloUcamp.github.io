@@ -14,7 +14,7 @@ Hola, gracias por tu interes... Estas viendo mi repositorio de **live demos**. R
 \
 \
 links de los live demos:
-- https://xcamarillox.github.io/desig_spec_based/index.html
+- https://xcamarillox.github.io/design_spec_based/index.html
 - https://xcamarillox.github.io/proyecto-1/index.html
 - https://xcamarillox.github.io/proyecto-2/index.html
 
@@ -35,6 +35,6 @@ Hello, thanks for your interest... You are viewing my repository of live demos. 
 \
 \
 links of the live demos:
-- https://xcamarillox.github.io/desig_spec_based/index.html
+- https://xcamarillox.github.io/design_spec_based/index.html
 - https://xcamarillox.github.io/proyecto-1/index.html
 - https://xcamarillox.github.io/proyecto-2/index.html
