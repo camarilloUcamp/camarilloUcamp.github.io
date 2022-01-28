@@ -1,5 +1,6 @@
 ## LIVE DEMOS
-#### (scroll for the english version)
+- #### (scroll for the english version)
+- #### Probado en Chrome
 
 Hola, gracias por tu interes... Estas viendo mi repositorio de **live demos**. Realmente el propósito de este repositorio es solamente para la demostración de los proyectos, el código de cada proyecto lo podrás encontrar en su apartado respectivo de repositorio (con todo el historial de commits) acompañado de una descripción detallada.
 
@@ -27,6 +28,7 @@ links de los repositorios:
 ____________________
 
 ## LIVE DEMOS
+- #### Chrome Tested
 
 Hello, thanks for your interest... You are viewing my repository of **live demos**. Actually the purpose of this repository is only for the demonstration of the projects, the code of each project can be found in its respective repository section (with all the commit history) accompanied by a detailed description.
 
