@@ -11,6 +11,7 @@ links de los live demos:
 - https://xcamarillox.github.io/design_spec_based/index.html
 - https://xcamarillox.github.io/proyecto-1/index.html
 - https://xcamarillox.github.io/proyecto-2/index.html
+- https://xcamarillox.github.io/proyecto-3/index.html
 
 \
 links de los repositorios:
@@ -18,7 +19,7 @@ links de los repositorios:
 - https://github.com/xcamarillox/design_spec_based
 - https://github.com/xcamarillox/proyecto-1
 - https://github.com/xcamarillox/proyecto-2
-
+- https://github.com/xcamarillox/proyecto-3
 ____________________
 
 ## LIVE DEMOS
@@ -33,6 +34,7 @@ links of the live demos:
 - https://xcamarillox.github.io/design_spec_based/index.html
 - https://xcamarillox.github.io/proyecto-1/index.html
 - https://xcamarillox.github.io/proyecto-2/index.html
+- https://xcamarillox.github.io/proyecto-3/index.html
 
 \
 repository links:
@@ -40,3 +42,4 @@ repository links:
 - https://github.com/xcamarillox/design_spec_based
 - https://github.com/xcamarillox/proyecto-1
 - https://github.com/xcamarillox/proyecto-2
+- https://github.com/xcamarillox/proyecto-3
