@@ -13,7 +13,6 @@ links de los live demos:
 - https://xcamarillox.github.io/proyecto-2/index.html
 - https://xcamarillox.github.io/proyecto-3/index.html
 - https://xcamarillox.github.io/proyecto-4/index.html
-- https://xcamarillox.github.io/tell-me-who/index.html
 
 \
 links de los repositorios:
@@ -23,7 +22,7 @@ links de los repositorios:
 - https://github.com/xcamarillox/proyecto-2
 - https://github.com/xcamarillox/proyecto-3
 - https://github.com/xcamarillox/proyecto-4
-- https://github.com/xcamarillox/tell-me-who
+
 ____________________
 
 ## PORTFOLIO: LIVE DEMOS
@@ -40,7 +39,6 @@ links of the live demos:
 - https://xcamarillox.github.io/proyecto-2/index.html
 - https://xcamarillox.github.io/proyecto-3/index.html
 - https://xcamarillox.github.io/proyecto-4/index.html
-- https://xcamarillox.github.io/tell-me-who/index.html
 
 \
 repository links:
@@ -50,4 +48,3 @@ repository links:
 - https://github.com/xcamarillox/proyecto-2
 - https://github.com/xcamarillox/proyecto-3
 - https://github.com/xcamarillox/proyecto-4
-- https://github.com/xcamarillox/tell-me-who
